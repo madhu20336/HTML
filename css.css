@@ -1,0 +1,46 @@
+.main_div{
+    display: block;
+    margin-left: 20%;
+    /* margin: 3%; */
+}
+.sub_div{
+    float: left;
+    padding: 3%;
+}
+button{
+    text-align: center;
+    width: 200;
+    height: 50; 
+    background-color: blueviolet;
+    outline: white;
+    color: white;
+}
+.paragraph{
+    filter: contrast(45%);
+}
+.size{
+    font-size:200% ;
+}
+h1{
+    font-size: 50px ;
+    text-align: center;
+    color: white;
+}
+h3{
+    text-align: center;
+    color: white;
+}
+p{
+    text-align: center;
+    color: white;
+    
+
+}
+h2{
+    text-align: center;
+    color: white;
+
+}
+body{
+    background-color: blueviolet;
+}
